@@ -7,4 +7,4 @@
 <a href="https://fb.com/thangthewinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thangthewinner" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangthewinner&show_icons=true&locale=en" alt="thangthewinner" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangthewinner&theme=city_lights&show_icons=true&locale=en" alt="thangthewinner" /></p>
